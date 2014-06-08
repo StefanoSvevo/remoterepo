@@ -8,3 +8,10 @@ Remote repo to test clone, push and pull
 * I like trains
 * I can teach llamas to drive
 
+* Mr. Orange
+* Mr. Blue
+* Mr. White
+* Mr. Brown
+* Mr. Blond
+* Mr. Pink
+* 
