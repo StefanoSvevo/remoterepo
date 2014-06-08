@@ -9,8 +9,11 @@ Remote repo to test clone, push and pull
 * I can teach llamas to drive
 
 
-----------------------------------
-Separator
+
+
+
+List of 'Reservoir Dogs' characters
+===================================
 
 * Mr Pink
 * Mr Orange
